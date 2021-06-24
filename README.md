@@ -4,3 +4,4 @@
 3.登录loonflow后台配置app，工作流,同步用户。  
 4.settings.py配置LOONFLOW_TOKEN(loonflow注册的apptoken)，LOONFLOW_APP_NAME(loonflow注册的app名称)，LOONFLOW_HOST(loonflow服务器地址)，LOONFLOW_ID(工作流id)  
 5.运行python manage.py runserver 8082启动  
+6.接口文档:apidoc/index.html
