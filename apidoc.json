@@ -1,0 +1,7 @@
+{
+    "name": "APIs",
+    "version": "1.0.0",
+    "description": "接口文档",
+    "title": "ServiceAPIs",
+    "url" : "http://localhost:8082"
+  }

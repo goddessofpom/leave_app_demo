@@ -1,0 +1,15 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+venv/
+.idea/
+/logs/
+/media/
+*.sqlite
+*.sw*
+*venv/
+*/migrations
+/static/
+.vscode
